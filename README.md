@@ -1,6 +1,8 @@
 # spanda1-webpage
 GUI for Spanda 1 - India's first micro 3D printer
 
+[Demo](https://kadapallanithin.github.io/spanda1-webpage/)
+
 # Sample server response
 
 ```json
